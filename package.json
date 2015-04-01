@@ -1,8 +1,8 @@
 {
-  "name": "simplecrawler",
-  "description": "Very straigntforward web crawler. Uses EventEmitter. Generates queue statistics and has a basic cache mechanism with extensible backend.",
-  "version": "0.3.11",
-  "homepage": "http://github.com/cgiffard/node-simplecrawler",
+  "name": "simplecrawler-referrer-filter",
+  "description": "Very straigntforward web crawler. Uses EventEmitter. Generates queue statistics and has a basic cache mechanism with extensible backend.  This version is forked in order to add the ability to filter by referrer url",
+  "version": "0.3.11.1",
+  "homepage": "http://github.com/dsinclair/node-simplecrawler",
   "author": "Christopher Giffard <christopher.giffard@cgiffard.com>",
   "keywords": [
     "simple",

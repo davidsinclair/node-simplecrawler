@@ -30,7 +30,7 @@ when discovering links)
 ### Installation
 
 ```
-npm install simplecrawler
+npm install simplecrawler-referrer-filter
 ```
 
 ### Getting Started

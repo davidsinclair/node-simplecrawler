@@ -1,7 +1,7 @@
 {
   "name": "simplecrawler-referrer-filter",
   "description": "Very straigntforward web crawler. Uses EventEmitter. Generates queue statistics and has a basic cache mechanism with extensible backend.  This version is forked in order to add the ability to filter by referrer url",
-  "version": "0.3.11.1",
+  "version": "0.3.11.2",
   "homepage": "http://github.com/dsinclair/node-simplecrawler",
   "author": "Christopher Giffard <christopher.giffard@cgiffard.com>",
   "keywords": [
